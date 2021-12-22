@@ -4,6 +4,7 @@
 Repositorio de Actualizaciones, interfaz y mejoras del Traductor Letra-Braille, realizadas por separado.
 
 | Version | Fecha | Informacion |
+| --- | --- | --- |
 | 1.0.0 | N/A | Primera carga de Archivos |
 
 ## Intrucciones
